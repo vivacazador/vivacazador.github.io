@@ -1,41 +1,47 @@
 <!DOCTYPE html>
-<html>
-  <head>
-  
-  </head>
-  <body>
-    <div>
-      <h1>Hunter Singh</h1>
-      <p>Ambitious and adventurous, working to blend my intresets and lifestyle with my career.</p>
-    </div>
-    
-    <div class="exp-header">
-      <h2>Education</h2>
-      <h4> California Polytechnic San Luis Obispo<h4>
-      <h5> Fall 2019 - Bachelors of Science in Agricultural Business
-    </div>
-         
-    <div>
-      <h2>Work Experience<h2>
-      <h2>Edna Valley Herds<h2>   
-      <h4>Owner & Operator<h4>
-      <h4>Feb 2017 - Nov 2018 
-        <ul>
-          <li>Utilized large herds of goats to graze grass and vegetation
-          <li>Cleared weeds and potential fire hazards for local cities and county properties
-          <li>Worked with a variety of people and customers from city officals to land managers
+ <html>
+   <head>
+    <meta charset="utf-g">
+    <meta name="viewpoint" content="width=device-width"
+          <title>Resume Dec 2023</title>
+     <link rel="stylesheet" href="style.css"/>
+   
+   </head>
+   <body>
+     <div>
+       <h1>Hunter Singh</h1>
+       <p>Ambitious and adventurous, working to blend my intresets and lifestyle with my career.</p>
+     </div>
+
+     <div class="exp-header">
+       <h2>Education</h2>
+       <h4> California Polytechnic San Luis Obispo<h4>
+       <h5> Fall 2019 - Bachelors of Science in Agricultural Business
+     </div>
+
+     <div>
+       <h2>Work Experience<h2>
+       <h2>Edna Valley Herds<h2>   
+       <h4>Owner & Operator<h4>
+       <h4>Feb 2017 - Nov 2018 
          <ul>
-           
-      <h2>Santa Maria Seeds<h2>
-      <h4>Product Development and Sales<h4>
-      <h4>Dec 2019 - Present
-        <ul>
-          <li>Collaborate with breeders and seed producers to find new vegetable genetics
-          <li>Run trial programs throughout California to identify improved commerial products
-          <li>Develop sales skills and work with growers to establish new products in the industry with growers
-         <ul>   
-      
-      
-       
-  </body>
-</html>
+           <li>Utilized large herds of goats to graze grass and vegetation
+           <li>Cleared weeds and potential fire hazards for local cities and county properties
+           <li>Worked with a variety of people and customers from city officals to land managers
+          <ul>
+       </div>
+       <div>
+            
+       <h2>Santa Maria Seeds<h2>
+       <h4>Product Development and Sales<h4>
+       <h4>Dec 2019 - Present
+         <ul>
+           <li>Collaborate with breeders and seed producers to find new vegetable genetics
+           <li>Run trial programs throughout California to identify improved commerial products
+           <li>Develop sales skills and work with growers to establish new products in the industry with growers
+          <ul>   
+            </div>
+
+
+   </body>
+ </html>
