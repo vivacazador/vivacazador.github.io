@@ -1,1 +1,39 @@
+body {
+  background-image:linear-gradient(#ffffff, rgb(30,96,96));
+    color: rgb(10,00,90);
+    font-family: Quincy, Helvetica, sans-serif;
+    margin: 10% 10%
+}
+.contact{
+  text-align: center
+}
+.edu {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 2px solid rgb(10,00,90)
 
+}
+
+.exp {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 2px solid rgb(10,00,90)
+
+}
+
+.pi{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 2px solid rgb(10,00,90)
+
+}
+
+.pic {
+  text-align: center;
+  padding-top: 20px;
+}
+   
+  
+  
+
+}
